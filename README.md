@@ -6,4 +6,5 @@
 4- [Break Camel case](https://www.codewars.com/kata/5208f99aee097e6552000148/solutions/javascript/me/best_practice)
 5- [String ends with?](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d/solutions/javascript/me/best_practice)
 6- [Sum of two lowest positive integers](https://www.codewars.com/kata/558fc85d8fd1938afb000014/solutions/javascript)
-
+7- [Disemvowel Trolls](https://www.codewars.com/kata/52fba66badcd10859f00097e/solutions/javascript/me/best_practice)
+ 
