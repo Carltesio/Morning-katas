@@ -9,4 +9,5 @@
 7- [Disemvowel Trolls](https://www.codewars.com/kata/52fba66badcd10859f00097e/solutions/javascript/me/best_practice)
 8- [Integers: Recreation One](https://www.codewars.com/kata/55aa075506463dac6600010d/solutions/javascript/me/best_practice)
 9- [Two fighters, one winner](https://www.codewars.com/kata/577bd8d4ae2807c64b00045b/solutions/javascript/me/best_practice)
+10- [Mexican Wave](https://www.codewars.com/kata/58f5c63f1e26ecda7e000029/solutions/javascript/me/best_practice)
  
