@@ -13,5 +13,7 @@
 11- [Build Tower](https://www.codewars.com/kata/58f5c63f1e26ecda7e000029/solutions/javascript/me/best_practice)
 12- [What's a Perfect Power anyway?](https://www.codewars.com/kata/58f5c63f1e26ecda7e000029/solutions/javascript/me/best_practice)
 11- [Maximum subarray sum](https://www.codewars.com/kata/58f5c63f1e26ecda7e000029/solutions/javascript/me/best_practice)
+11- [Playing with digits
+](https://www.codewars.com/kata/58f5c63f1e26ecda7e000029/solutions/javascript/me/best_practice)
 
  
